@@ -61,6 +61,7 @@ int main() {
     return 0;
 }
 ```
+![image](https://github.com/user-attachments/assets/56ba0275-723c-4d50-8a39-bf65e2ef65e7)
 
 ## 🇨 C (`c`)
 
@@ -72,6 +73,7 @@ int main() {
     return 0;
 }
 ```
+![image](https://github.com/user-attachments/assets/83bfb8e4-e311-47b6-9f4b-d76c1ac89e3f)
 
 ## ☕ Java (`java`)
 
@@ -82,6 +84,7 @@ public class Main {
     }
 }
 ```
+![image](https://github.com/user-attachments/assets/47b193ca-b1cc-439e-8a84-3a5079501821)
 
 ## 🐹 Go (`go`)
 
