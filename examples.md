@@ -97,6 +97,7 @@ func main() {
     fmt.Println("Hello, World!")
 }
 ```
+![image](https://github.com/user-attachments/assets/32f4312f-1e90-4296-93b6-50a63854c29b)
 
 ## 🦀 Rust (`rust`)
 
@@ -105,12 +106,14 @@ fn main() {
     println!("Hello, World!");
 }
 ```
+![image](https://github.com/user-attachments/assets/bed11389-78df-4e82-9d24-b8137a72041d)
 
 ## 🍎 Swift (`swift`)
 
 ```swift
 print("Hello, World!")
 ```
+![image](https://github.com/user-attachments/assets/a99ccc66-76fd-4c68-94d4-190b3b466e00)
 
 ## 🧬 Kotlin (`kotlin`, `kt`)
 
@@ -119,6 +122,7 @@ fun main() {
     println("Hello, World!")
 }
 ```
+![image](https://github.com/user-attachments/assets/55fc57cc-418a-45b1-909b-2b93730cfc02)
 
 ## 🎯 Dart (`dart`)
 
@@ -127,6 +131,7 @@ void main() {
   print('Hello, World!');
 }
 ```
+![image](https://github.com/user-attachments/assets/d8d1a1f9-984e-4143-ace0-e2a2dda92f06)
 
 ## 🐘 PHP (`php`)
 
@@ -134,6 +139,7 @@ void main() {
 <?php
 echo "Hello, World!";
 ```
+![image](https://github.com/user-attachments/assets/2de0ee54-837b-41af-bb66-d886c795d641)
 
 ## 💎 Ruby (`ruby`, `rb`)
 
@@ -144,18 +150,21 @@ end
 
 greet("World")
 ```
+![image](https://github.com/user-attachments/assets/d12c31fe-1f04-42ce-bd9c-81b3863d3ea1)
 
 ## ⚡ PowerShell (`powershell`, `ps`, `ps1`)
 
 ```powershell
 Write-Output "Hello, World!"
 ```
+![image](https://github.com/user-attachments/assets/9898fa88-8c90-4856-a047-d1d918b0ecfa)
 
 ## 🐚 Bash/Shell (`bash`, `sh`)
 
 ```bash
 echo "Hello, World!"
 ```
+![image](https://github.com/user-attachments/assets/b79783cf-93ed-45cf-9151-8014adf1d5d3)
 
 ## 🌐 HTML (`html`)
 
@@ -168,6 +177,7 @@ echo "Hello, World!"
 </body>
 </html>
 ```
+![image](https://github.com/user-attachments/assets/4bbbdff5-1888-47e9-a162-91ec6c3bbe02)
 
 ## 🎨 CSS (`css`)
 
@@ -177,6 +187,7 @@ body {
     color: #333;
 }
 ```
+![image](https://github.com/user-attachments/assets/110ecc39-d027-436b-a91b-e4dad0492ed8)
 
 ## 📦 JSON (`json`)
 
@@ -185,6 +196,7 @@ body {
   "message": "Hello, World!"
 }
 ```
+![image](https://github.com/user-attachments/assets/1b3ed274-8a1c-4a79-932b-0300d011f878)
 
 ## 🔧 YAML (`yaml`, `yml`)
 
