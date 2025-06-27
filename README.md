@@ -22,4 +22,4 @@ You can find tested and supported languages in [`languages.md`](./languages.md).
 ## ⚠️ Notes & Tips
 
 - GitHub offers **the most complete** syntax highlighting support.
-- Discord supports only a limited subset. If in doubt, test it first.
+- Discord supports only a limited subset. If in doubt, test it first. It might be complete or not!
