@@ -15,7 +15,7 @@ your code here
 ---
 
 ## ✅ Supported Languages
-you can find supported languages in [`languages.md`](./languages.md).
+You can find tested and supported languages in [`languages.md`](./languages.md).
 
 ---
 
