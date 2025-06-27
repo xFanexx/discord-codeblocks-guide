@@ -13,6 +13,7 @@ def greet(name):
 
 greet("World")
 ```
+![image](https://github.com/user-attachments/assets/4b921752-c8a0-4f0b-b421-b6f8e92f01db)
 
 ## 🌐 JavaScript (`javascript`, `js`)
 
@@ -23,6 +24,8 @@ function greet(name) {
 
 greet("World");
 ```
+![image](https://github.com/user-attachments/assets/2bab1582-9f6b-4ad0-abfe-28446774ef3b)
+
 
 ## 🟦 TypeScript (`typescript`, `ts`)
 
@@ -33,6 +36,7 @@ function greet(name: string): void {
 
 greet("World");
 ```
+![image](https://github.com/user-attachments/assets/29cf75a7-d463-400d-b2d2-22dfe5b5162a)
 
 ## ⚙️ C# (`csharp`, `cs`)
 
@@ -45,6 +49,7 @@ class Program {
     }
 }
 ```
+![image](https://github.com/user-attachments/assets/21e854c6-7892-45a7-a5ab-4f6367cc907a)
 
 ## ➕ C++ (`cpp`, `c++`)
 
