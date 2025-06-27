@@ -203,12 +203,14 @@ body {
 ```yaml
 message: "Hello, World!"
 ```
+![image](https://github.com/user-attachments/assets/91687519-48bf-49f9-927d-04136da362b4)
 
 ## 🍅 TOML (`toml`)
 
 ```toml
 message = "Hello, World!"
 ```
+![image](https://github.com/user-attachments/assets/86947906-dbde-4e95-8ae4-b83ed163378f)
 
 ## 📄 Markdown (`markdown`, `md`)
 
@@ -216,30 +218,35 @@ message = "Hello, World!"
 # Hello
 This is **Markdown**.
 ```
+![image](https://github.com/user-attachments/assets/28f424b4-4ce6-4451-b051-abfd8542cff6)
 
 ## 🛢️ SQL (`sql`)
 
 ```sql
 SELECT 'Hello, World!';
 ```
+![image](https://github.com/user-attachments/assets/96b4bdbf-da16-423a-8bc2-e2d507ef8b02)
 
 ## 🧾 XML (`xml`)
 
 ```xml
 <message>Hello, World!</message>
 ```
+![image](https://github.com/user-attachments/assets/b21cf987-e212-42d6-8e2c-7dc921bd44f5)
 
 ## 🐍 Lua (`lua`)
 
 ```lua
 print("Hello, World!")
 ```
+![image](https://github.com/user-attachments/assets/313a8417-ac02-4bcc-b41d-30943c773a3a)
 
 ## 📊 R (`r`)
 
 ```r
 print("Hello, World!")
 ```
+![image](https://github.com/user-attachments/assets/ad6e415c-8757-4c1a-874a-895bc77cceb2)
 
 ## 🧪 Scala (`scala`)
 
@@ -248,12 +255,14 @@ object Main extends App {
   println("Hello, World!")
 }
 ```
+![image](https://github.com/user-attachments/assets/d12aca08-6146-468b-ada7-3556fc8bf022)
 
 ## 🧠 Haskell (`haskell`)
 
 ```haskell
 main = putStrLn "Hello, World!"
 ```
+![image](https://github.com/user-attachments/assets/490294bc-667d-4f9e-81b1-cd4068fc4c84)
 
 ## ⚙️ Assembly (`asm`, `nasm`)
 
@@ -265,30 +274,35 @@ section .text
 _start:
     ; just a placeholder example
 ```
+![image](https://github.com/user-attachments/assets/02976a5c-906a-4dac-b735-cd245c281939)
 
 ## 🧬 Elixir (`elixir`)
 
 ```elixir
 IO.puts("Hello, World!")
 ```
+![image](https://github.com/user-attachments/assets/3811dfda-53ab-4370-8d9f-82d0c5c6698a)
 
 ## 🔣 F# (`fsharp`, `fs`)
 
 ```fsharp
 printfn "Hello, World!"
 ```
+![image](https://github.com/user-attachments/assets/a7cbf391-8f24-4d15-a1d3-22024c1c32a4)
 
 ## 🐪 Perl (`perl`, `pl`)
 
 ```perl
 print "Hello, World!\n";
 ```
+![image](https://github.com/user-attachments/assets/ffb70084-0b40-43cf-8400-83a7844774ef)
 
 ## 📈 Julia (`julia`)
 
 ```julia
 println("Hello, World!")
 ```
+![image](https://github.com/user-attachments/assets/36042457-61aa-4c7c-9c5d-3346175d161a)
 
 ## 🍏 Objective-C (`objectivec`, `objc`)
 
@@ -302,3 +316,7 @@ int main() {
     return 0;
 }
 ```
+![image](https://github.com/user-attachments/assets/3517bdb7-8713-4431-b1ab-e449671c3d5f)
+
+
+MORE SOON
